@@ -23,12 +23,3 @@ Creates CloudinaryAsset nodes from compatible File nodes. The File nodes are upl
 * cloudinary docs for transform images: https://cloudinary.com/documentation/image_transformation_reference
 
 
-
-
-## 💫 Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
-
-<!-- AUTO-GENERATED-CONTENT:END -->
