@@ -4,9 +4,10 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
   </a>
 </p>
-<h1 align="center">
-  Gatsby's default starter
-</h1>
+
+## Demo 
+https://gcloudinary.netlify.app/
+[![Netlify Status](https://api.netlify.com/api/v1/badges/119acc2f-6877-4493-856a-58a5e536910f/deploy-status)](https://app.netlify.com/sites/gcloudinary/deploys)
 
 
 ## Gatsby-source-cloudinary
